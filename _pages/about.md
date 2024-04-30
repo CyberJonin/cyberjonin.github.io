@@ -7,7 +7,7 @@ subtitle: "Cybersecurity Chronicles: Tales from the Home Lab"
 profile:
   align: right
   image: IMG_2094.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Located in Maryland, US</p>
 
