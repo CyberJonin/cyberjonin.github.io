@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gregqlewis.com/sitemap.xml
+Sitemap: https://cyberjonin.github.io/sitemap.xml
